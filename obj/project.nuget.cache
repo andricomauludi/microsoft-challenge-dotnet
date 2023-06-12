@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "QVmSAXe/vaVQJP+Jnc+O/FV/2ikAMbbbs9tRmVdPk3aafnvT1m3rPDi/XN22JDGv7iIk0dbVWZqywxBM1SrD5Q==",
+  "success": true,
+  "projectFilePath": "D:\\Documents\\Andrico\\KERJA\\Telkomsigma\\ProBis Microsoft\\Microsoft Challenge\\webapi\\webapi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SCC1202200986\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.5\\microsoft.aspnetcore.openapi.7.0.5.nupkg.sha512",
+    "C:\\Users\\SCC1202200986\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\SCC1202200986\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\SCC1202200986\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\SCC1202200986\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\SCC1202200986\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\SCC1202200986\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
