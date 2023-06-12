@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Documents\\Andrico\\KERJA\\Telkomsigma\\ProBis Microsoft\\Microsoft Challenge\\webapi\\webapi.csproj": {}
+    "D:\\Documents\\Andrico\\KERJA\\Telkomsigma\\ProBis Microsoft\\Microsoft Challenge\\webapi\\WebAPI.csproj": {}
   },
   "projects": {
-    "D:\\Documents\\Andrico\\KERJA\\Telkomsigma\\ProBis Microsoft\\Microsoft Challenge\\webapi\\webapi.csproj": {
+    "D:\\Documents\\Andrico\\KERJA\\Telkomsigma\\ProBis Microsoft\\Microsoft Challenge\\webapi\\WebAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Documents\\Andrico\\KERJA\\Telkomsigma\\ProBis Microsoft\\Microsoft Challenge\\webapi\\webapi.csproj",
-        "projectName": "webapi",
-        "projectPath": "D:\\Documents\\Andrico\\KERJA\\Telkomsigma\\ProBis Microsoft\\Microsoft Challenge\\webapi\\webapi.csproj",
+        "projectUniqueName": "D:\\Documents\\Andrico\\KERJA\\Telkomsigma\\ProBis Microsoft\\Microsoft Challenge\\webapi\\WebAPI.csproj",
+        "projectName": "WebAPI",
+        "projectPath": "D:\\Documents\\Andrico\\KERJA\\Telkomsigma\\ProBis Microsoft\\Microsoft Challenge\\webapi\\WebAPI.csproj",
         "packagesPath": "C:\\Users\\SCC1202200986\\.nuget\\packages\\",
         "outputPath": "D:\\Documents\\Andrico\\KERJA\\Telkomsigma\\ProBis Microsoft\\Microsoft Challenge\\webapi\\obj\\",
         "projectStyle": "PackageReference",
